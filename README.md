@@ -1,5 +1,8 @@
 👋 Hey there! I'm Emilio Laurenti
 
+![Codewars](https://www.codewars.com/users/RedDoesCoding/badges/large)
+
+
 🖥️ Tech Enthusiast | 🏎️ Race Car Driver | 💻 Full-Stack Developer
 
 👨‍💻 About Me
@@ -40,8 +43,6 @@ Here's what I’m currently working on:
 And more 🎉
 
 LeetCode too! but not as often :P
-
-![Codewars](https://www.codewars.com/users/RedDoesCoding/badges/large)
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
