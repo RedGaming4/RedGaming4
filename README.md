@@ -24,11 +24,17 @@ I’m a race car driver 🏁 and love go-karting on the weekends—it’s my fav
 Here's what I’m currently working on:
 
 🌐 Personal Portfolio Website – Showcasing all my projects.
+
 🤖 AI Projects – Implementing AWS Rekognition for advanced image recognition.
+
 🛠️ Home Lab – Setting up servers, networking gear, and experimenting with cybersecurity.
+
 🖱️ My Own Gaming Mouse – Designing hardware and writing custom drivers.
+
 👾 My Own Interpreter/Language – Building my own programming language from scratch.
+
 🌐 Setting Up My Own HTTP Web Server – Learning server configurations and hosting.
+
 And more 🎉
 
 🌟 Let's Connect
