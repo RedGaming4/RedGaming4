@@ -42,3 +42,5 @@ And more 🎉
 Feel free to explore my repositories, drop a message, or just say hi! 😊
 
 LinkedIn: Emilio Laurenti (https://www.linkedin.com/in/emilio-laurenti-28097b262/)
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
