@@ -44,6 +44,8 @@ And more 🎉
 
 LeetCode too! but not as often :P
 
+**![Codewars](https://www.codewars.com/users/RedDoesCoding/badges/large)**
+
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 🌟 Let's Connect
@@ -86,8 +88,6 @@ List of some of the frameworks & languages im familiar with!
 
 
 
-
-**![Codewars](https://www.codewars.com/users/RedDoesCoding/badges/large)**
 
 
 
