@@ -46,7 +46,7 @@ Feel free to explore my repositories, drop a message, or just say hi! 😊
 **[LinkedIn: Emilio Laurenti](https://www.linkedin.com/in/emilio-laurenti-28097b262/)**
 
 
-List of some of the frameworks & languages im familiar with!
+## List of some of the frameworks & languages im familiar with!
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blac)
@@ -68,16 +68,16 @@ List of some of the frameworks & languages im familiar with!
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-There's more these are just the main ones I have been using the past year or so!
+**There's more these are just the main ones I have been using the past year or so!**
 
 
-Cloud Storage 
+## Cloud Storage 
 
 ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
 
 
 
-OS Systems
+## OS Systems
 
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
