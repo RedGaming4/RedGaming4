@@ -40,6 +40,7 @@ Here's what I’m currently working on:
 And more 🎉
 
 LeetCode too! but not as often :P
+
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 🌟 Let's Connect
