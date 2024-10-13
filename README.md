@@ -42,9 +42,13 @@ Here's what I’m currently working on:
 
 And more 🎉
 
-LeetCode too! but not as often :P
+***Codewars***
+
 
 **![Codewars](https://www.codewars.com/users/RedDoesCoding/badges/large)**
+
+
+***LeetCode too! but not as often :P***
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
