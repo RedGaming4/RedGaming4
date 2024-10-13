@@ -80,6 +80,8 @@ List of some of the frameworks & languages im familiar with!
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
+There's more these are just the main ones I have been using the past year or so!
+
 
 Cloud Storage 
 
