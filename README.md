@@ -3,6 +3,7 @@
 🖥️ Tech Enthusiast | 🏎️ Race Car Driver | 💻 Full-Stack Developer
 
 👨‍💻 About Me
+
 Hey! I'm Emilio Laurenti, a 20-year-old tech lover who’s been programming since 7th grade! My journey started with a TI-84 calculator (yep, that’s right! 😄) where I learned how to code Pong directly on the calculator itself! Little me didn't realize you could actually connect it to a computer. 😂
 
 Ever since then, I’ve been hooked on everything tech-related, and I love exploring all areas of tech:
