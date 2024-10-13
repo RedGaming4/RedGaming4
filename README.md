@@ -1,6 +1,6 @@
 👋 Hey there! I'm Emilio Laurenti
 
-![Codewars](https://www.codewars.com/users/RedDoesCoding/badges/large)
+
 
 
 🖥️ Tech Enthusiast | 🏎️ Race Car Driver | 💻 Full-Stack Developer
@@ -87,6 +87,7 @@ List of some of the frameworks & languages im familiar with!
 
 
 
-![Codewars](https://github.r2v.ch/codewars?user=RedDoesCodingvogt89&stroke=%23BB432C)
+**![Codewars](https://www.codewars.com/users/RedDoesCoding/badges/large)**
+
 
 
