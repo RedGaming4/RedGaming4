@@ -54,3 +54,7 @@ LinkedIn: Emilio Laurenti (https://www.linkedin.com/in/emilio-laurenti-28097b262
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)****
+
+
