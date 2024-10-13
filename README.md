@@ -44,6 +44,8 @@ And more 🎉
 Feel free to explore my repositories, drop a message, or just say hi! 😊
 
 **[LinkedIn: Emilio Laurenti](https://www.linkedin.com/in/emilio-laurenti-28097b262/)**
+**[HandShake: Emilio Laurenti](https://mdc.joinhandshake.com/profiles/41301079)**
+
 
 
 ## List of some of the frameworks & languages im familiar with!
