@@ -44,5 +44,9 @@ Feel free to explore my repositories, drop a message, or just say hi! 😊
 LinkedIn: Emilio Laurenti (https://www.linkedin.com/in/emilio-laurenti-28097b262/)
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blac)]
+![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+
+
+
