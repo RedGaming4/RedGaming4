@@ -1,9 +1,9 @@
-#👋 Hey there! I'm Emilio Laurenti
+👋 Hey there! I'm Emilio Laurenti
 
 
 
 
-🖥️ Tech Enthusiast | 🏎️ Race Car Driver | 💻 Full-Stack Developer
+##🖥️ Tech Enthusiast | 🏎️ Race Car Driver | 💻 Full-Stack Developer
 
 👨‍💻 About Me
 
