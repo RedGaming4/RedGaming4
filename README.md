@@ -9,6 +9,7 @@ Hey! I'm Emilio Laurenti, a 20-year-old tech lover who’s been programming sinc
 Ever since then, I’ve been hooked on everything tech-related, and I love exploring all areas of tech:
 
 💻 Programming (any language, you name it!)
+
 🔧 Hardware & IT
 🛡️ Cybersecurity
 🌐 Networking
