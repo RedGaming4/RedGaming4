@@ -88,8 +88,7 @@ List of some of the frameworks & languages im familiar with!
 
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)****
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 
 
