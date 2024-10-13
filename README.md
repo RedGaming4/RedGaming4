@@ -84,3 +84,8 @@ List of some of the frameworks & languages im familiar with!
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)****
 
 
+
+
+![Codewars](https://github.r2v.ch/codewars?user=RedDoesCodingvogt89&stroke=%23BB432C)
+
+
