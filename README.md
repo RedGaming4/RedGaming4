@@ -2,35 +2,23 @@
 
 🖥️ **Tech Enthusiast** | 🏎️ **Race Car Driver** | 💻 **Full-Stack Developer**
 
-## 👨‍💻 About Me
+👨‍💻 About Me
+Hi, I’m Emilio Laurenti. I’ve been passionate about technology since I first learned programming back in 7th grade. My journey began with a TI-84 calculator, where I figured out how to code a simple game of Pong—without realizing I could even connect it to a computer!
 
-Hey! I'm **Emilio Laurenti**, a 20-year-old tech lover who’s been programming since 7th grade! My journey started with a **TI-84 calculator** (yep, that’s right! 😄) where I learned how to code **Pong** directly on the calculator itself! Little me didn't realize you could actually connect it to a computer. 😂
+That curiosity has grown into a deep love for all things tech, from programming and networking to cybersecurity and hardware tinkering. I enjoy diving into new challenges and constantly learning.
 
-Ever since then, I’ve been hooked on everything tech-related, and I love exploring all areas of tech:
+🏎️ Outside of Tech
+When I’m not working on tech projects, you’ll find me on the race track. I’m a race car driver and love spending weekends go-karting. It’s my way of balancing the precision of coding with the thrill of high-speed racing.
 
-- 💻 **Programming** (any language, you name it!)
-- 🔧 **Hardware & IT**
-- 🛡️ **Cybersecurity**
-- 🌐 **Networking**
+🔥 Current Projects
+Here’s what I’ve been working on lately:
 
-If it's tech, I'm fascinated by it! I'm currently working on my portfolio website where I’ll be showcasing some of my coolest projects, so stay tuned for that! 🚀
-
-## 🏎️ When I’m Not Coding...
-
-When I’m not immersed in the world of tech, you’ll find me out on the track!  
-I’m a **race car driver** 🏁 and love **go-karting** on the weekends—it’s my favorite way to get the adrenaline pumping. Speeding down the track is a perfect complement to my fast-paced tech life. 😎
-
-## 🔥 Current Projects
-
-Here's what I’m currently working on:
-
-- 🌐 **Personal Portfolio Website** – Showcasing all my projects.
-- 🤖 **AI Projects** – Implementing AWS Rekognition for advanced image recognition.
-- 🛠️ **Home Lab** – Setting up servers, networking gear, and experimenting with cybersecurity.
-- 🖱️ **My Own Gaming Mouse** – Designing hardware and writing custom drivers.
-- 👾 **My Own Interpreter/Language** – Building my own programming language from scratch.
-- 🌐 **Setting Up My Own HTTP Web Server** – Learning server configurations and hosting.
-
+🌐 Personal Portfolio Website – A place to showcase my projects.
+🤖 AI Exploration – Experimenting with AWS Rekognition for image recognition.
+🛠️ Home Lab Setup – Building and configuring servers, experimenting with cybersecurity tools.
+🖱️ Custom Gaming Mouse – Designing hardware and developing custom drivers.
+👾 Creating My Own Interpreter – Building a programming language from scratch.
+🌐 Hosting My Own HTTP Server – Learning server management and configuration.
 And more 🎉
 
 ## ***Codewars***  
