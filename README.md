@@ -13,13 +13,8 @@ When I’m not working on tech projects, you’ll find me on the race track. I�
 🔥 Current Projects
 Here’s what I’ve been working on lately:
 
-🌐 Personal Portfolio Website – A place to showcase my projects.
-🤖 AI Exploration – Experimenting with AWS Rekognition for image recognition.
-🛠️ Home Lab Setup – Building and configuring servers, experimenting with cybersecurity tools.
-🖱️ Custom Gaming Mouse – Designing hardware and developing custom drivers.
-👾 Creating My Own Interpreter – Building a programming language from scratch.
-🌐 Hosting My Own HTTP Server – Learning server management and configuration.
-And more 🎉
+🌐 Personal Portfolio Website – A place to showcase my projects. 🤖 AI Exploration – Experimenting with AWS Rekognition for image recognition. 🛠️ Home Lab Setup – Building and configuring servers, experimenting with cybersecurity tools. 🖱️ Custom Gaming Mouse – Designing hardware and developing custom drivers. 👾 Creating My Own Interpreter – Building a programming language from scratch. 🌐 Hosting My Own HTTP Server – Learning server management and configuration.
+
 
 ## ***Codewars***  
 **![Codewars](https://www.codewars.com/users/RedDoesCoding/badges/large)**
