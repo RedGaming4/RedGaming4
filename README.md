@@ -10,15 +10,16 @@ That curiosity has grown into a deep love for all things tech, from programming 
 🏎️ Outside of Tech
 When I’m not working on tech projects, you’ll find me on the race track. I’m a race car driver and love spending weekends go-karting. It’s my way of balancing the precision of coding with the thrill of high-speed racing.
 
-🔥 Current Projects
-Here’s what I’ve been working on lately:
+## 🔥 Current Projects
 
-🌐 Personal Portfolio Website – A place to showcase my projects.
-🤖 AI Exploration – Experimenting with AWS Rekognition for image recognition.
-🛠️ Home Lab Setup – Building and configuring servers, experimenting with cybersecurity tools.
-🖱️ Custom Gaming Mouse – Designing hardware and developing custom drivers.
-👾 Creating My Own Interpreter – Building a programming language from scratch.
-🌐 Hosting My Own HTTP Server – Learning server management and configuration.
+Here's what I’m currently working on:
+
+- 🌐 **Personal Portfolio Website** – Showcasing all my projects.
+- 🤖 **AI Projects** – Implementing AWS Rekognition for advanced image recognition.
+- 🛠️ **Home Lab** – Setting up servers, networking gear, and experimenting with cybersecurity.
+- 🖱️ **My Own Gaming Mouse** – Designing hardware and writing custom drivers.
+- 👾 **My Own Interpreter/Language** – Building my own programming language from scratch.
+- 🌐 **Setting Up My Own HTTP Web Server** – Learning server configurations and hosting.
 
 ## ***Codewars***  
 **![Codewars](https://www.codewars.com/users/RedDoesCoding/badges/large)**
