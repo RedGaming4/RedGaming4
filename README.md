@@ -2,12 +2,12 @@
 
 🖥️ **Tech Enthusiast** | 🏎️ **Race Car Driver** | 💻 **Full-Stack Developer**
 
-👨‍💻 About Me
-Hi, I’m Emilio Laurenti. I’ve been passionate about technology since I first learned programming back in 7th grade. My journey began with a TI-84 calculator, where I figured out how to code a simple game of Pong—without realizing I could even connect it to a computer!
+##👨‍💻 About Me
+Hi, I’m Emilio Laurenti—a full-stack developer with a passion for solving problems through code. I’ve been programming since 7th grade, starting with a TI-84 calculator, and now I focus on building efficient software solutions, experimenting with AI, and exploring hardware development.
 
-That curiosity has grown into a deep love for all things tech, from programming and networking to cybersecurity and hardware tinkering. I enjoy diving into new challenges and constantly learning.
+I enjoy working with a variety of technologies and am always looking to learn and grow. Currently, I’m building projects involving web development, AI, and server management. I’m looking for opportunities to contribute my skills and grow as a developer.
 
-🏎️ Outside of Tech
+##🏎️ Outside of Tech
 When I’m not working on tech projects, you’ll find me on the race track. I’m a race car driver and love spending weekends go-karting. It’s my way of balancing the precision of coding with the thrill of high-speed racing.
 
 ## 🔥 Current Projects
