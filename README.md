@@ -35,6 +35,7 @@ Feel free to explore my repositories, drop a message, or just say hi! 😊
 | **[HandShake: Emilio Laurenti](https://mdc.joinhandshake.com/profiles/41301079)**
 | **[Blog: Emilio Laurenti](https://fearless-band-e7f.notion.site/Emilio-s-Arpanet-Corner-1202fbcd720880f2b04ccf67190346c6)**
 
+[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 
 
 ## List of some of the frameworks & languages im familiar with!
