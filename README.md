@@ -1,35 +1,6 @@
 # 👋 Hey there! I'm **Emilio Laurenti** 
 
-🖥️ **Tech Enthusiast** | 🏎️ **Race Car Driver** | 💻 **Full-Stack Developer**
-
-## 👨‍💻 About Me
-Hi, I’m Emilio Laurenti—a full-stack developer with a passion for solving problems through code. I’ve been programming since 7th grade, starting with a TI-84 calculator, and now I focus on building efficient software solutions, experimenting with AI, and exploring hardware development.
-
-I enjoy working with a variety of technologies and am always looking to learn and grow. Currently, I’m building projects involving web development, AI, and server management. I’m looking for opportunities to contribute my skills and grow as a developer.
-
-## 🏎️ Outside of Tech
-When I’m not working on tech projects, you’ll find me on the race track. I’m a race car driver and love spending weekends go-karting. It’s my way of balancing the precision of coding with the thrill of high-speed racing.
-
-## 🔥 Current Projects
-
-Here's what I’m currently working on:
-
-- 🌐 **Personal Portfolio Website** – Showcasing all my projects.
-- 🤖 **AI Projects** – Implementing AWS Rekognition for advanced image recognition.
-- 🛠️ **Home Lab** – Setting up servers, networking gear, and experimenting with cybersecurity.
-- 🖱️ **My Own Gaming Mouse** – Designing hardware and writing custom drivers.
-- 👾 **My Own Interpreter/Language** – Building my own programming language from scratch.
-- 🌐 **Setting Up My Own HTTP Web Server** – Learning server configurations and hosting.
-
-## ***Codewars***  
-**![Codewars](https://www.codewars.com/users/RedDoesCoding/badges/large)**
-
-## ***LeetCode too! but not as often :P***  
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-
-## 🌟 Let's Connect
-
-Feel free to explore my repositories, drop a message, or just say hi! 😊
+Welcome to a mess of things.  lol! 
 
 **[LinkedIn: Emilio Laurenti](https://www.linkedin.com/in/emilio-laurenti-28097b262/)**
 | **[HandShake: Emilio Laurenti](https://mdc.joinhandshake.com/profiles/41301079)**
@@ -38,7 +9,7 @@ Feel free to explore my repositories, drop a message, or just say hi! 😊
 [![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 
 
-## List of some of the frameworks & languages im familiar with!
+## List of some of the things i use the most :) 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blac)
@@ -59,28 +30,6 @@ Feel free to explore my repositories, drop a message, or just say hi! 😊
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
-**There's more these are just the main ones I have been using the past year or so!**
-
-
-## Cloud Storage 
-
-![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
-
-
-
-## OS Systems
-
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
-
-
-
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 
 
