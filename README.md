@@ -1,6 +1,7 @@
 # 👋 Hey there! I'm **Emilio Laurenti** 
 
 Welcome to a mess of things.  lol! 
+I have a weird fascination for old IBM PCs and freedos
 
 **[LinkedIn: Emilio Laurenti](https://www.linkedin.com/in/emilio-laurenti-28097b262/)**
 | **[HandShake: Emilio Laurenti](https://mdc.joinhandshake.com/profiles/41301079)**
