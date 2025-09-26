@@ -1,7 +1,7 @@
 
 # Hello! I'm Emilio 👋
 
-I'm an aspiring **full-stack engineer** with a background in **security, development, system design, and IT**
+I'm an aspiring **full-stack engineer** with a background in **low-level, development, system design, and IT**
 
 Welcome to my **GitHub** profile! 
 
@@ -11,9 +11,9 @@ Below you’ll find some of the languages, technologies, tools, and services I�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF5722?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arguellesalex)
-[![Email](https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business@alex-arguelles.com)
-[![Portfolio](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://www.alex-arguelles.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF5722?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliolaurenti)
+[![Email](https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Portfolio](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=About.me&logoColor=white)]()
 
 </div>
 
