@@ -1,11 +1,11 @@
 
 # Hello! I'm Emilio 👋
 
-I'm an aspiring **full-stack engineer** with a background in **low-level, development, system design, and IT**
+I'm an as best I can explain a Technophile with a background in **everything computer related as long as it is fun**
 
 Welcome to my **GitHub** profile! 
 
-Below you’ll find some of the languages, technologies, tools, and services I’ve worked with. Feel free to explore my repositories and reach out if you'd like to collaborate on a project!
+Below you’ll find some of the languages, technologies, tools, and services I’ve worked with. Feel free to explore my repositories and reach out if you'd like to collaborate on a project! Or if you have obscure questions about DOS and old IBM computers.
 
 ## 📫 Connect with me
 
