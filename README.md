@@ -1,7 +1,7 @@
 
 # Hello! I'm Emilio 👋
 
-I'm an as best I can explain a Technophile with a background in **everything computer related as long as it is fun**
+***I'm a technophile with a background in all things computer-related as long as it's fun.***
 
 Welcome to my **GitHub** profile! 
 
